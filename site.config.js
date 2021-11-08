@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Krutarth',
-  domain: 'studybuddy.courses',
+  domain: 'www.studybuddy.courses',
   author: 'Krutarth',
 
   // open graph metadata (optional)
