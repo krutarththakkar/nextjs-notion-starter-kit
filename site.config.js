@@ -12,9 +12,9 @@ module.exports = {
   author: 'Krutarth',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Hackp0int is a network of high school makers, where young people build the agency, the network, & the technical talent to think big & do big things in the world. Learn to code with this collection of  self-guided coding tutorials & ideas.',
+  socialImageTitle: 'Krutarth Thakkar',
+  socialImageSubtitle: 'Hack p0int',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
